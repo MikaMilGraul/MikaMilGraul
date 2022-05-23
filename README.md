@@ -1,10 +1,10 @@
-# Sobre mim
+# Sobre mim <3
 
 - 👋 Hi, I’m @MikaMilGraul
-- 👀 não estou interessada em nada, estou sendo obrigada a fazer isso pq se eu não fizer eu não ganho nota 
-- 🌱 queria estar em casa 
-- 💞️ mó sono 
-- tchau <3 
+- 👀 meu e-mail de contato é isabella.timoteo.souza@escola.pr.gov.br
+- 🌱 eu não sei exatamnete quais são meus interesses, mas estou fazendo caso cursos de programaçao precise no meu futuro 
+- 💞️ meus pronomes: ela/dela
+- ✨ só isso mesmo, bye :)
 
 
 <!---
