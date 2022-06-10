@@ -3,7 +3,7 @@
 - :zap: *expectro patronum*
 - :cat: Hi, I’m @MikaMilGraul
 - :mushroom: meu e-mail de contato é isabella.timoteo.souza@escola.pr.gov.br
-- :new_moon: eu não sei exatamnete quais são meus interesses, mas estou fazendo caso cursos de programaçao precise no meu futuro 
+- :new_moon: eu não sei exatamnete quais são meus interesses, mas estou fazendo cursos de programaçao caso precise no meu futuro 
 - :purple_heart: meus pronomes: ela/dela 
 - 🏳️‍🌈
 - :wave: só isso mesmo, bye :)
